@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cliente"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:icon="@drawable/ic_adicionar_black"
+            android:title="Cadastrar Cliente" />
+    </group>
+
+
+    <item
+        android:id="@+id/nav_historico"
+        android:icon="@drawable/baseline_list_black_24dp"
+        android:title="Historico" />
+
+
+    <item
+        android:id="@+id/nav_localizacao"
+        android:icon="@drawable/ic_local_black"
+        android:title="Localização" />
+
+    <item
+        android:id="@+id/nav_agenda"
+        android:icon="@drawable/check"
+        android:title="Agenda" />
+
+    <item
+        android:id="@+id/nav_sair"
+        android:icon="@drawable/baseline_cancel_black_24dp"
+        android:title="Sair" />
+
+</menu>

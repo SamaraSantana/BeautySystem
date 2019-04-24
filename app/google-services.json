@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79137736238",
+    "firebase_url": "https://beauty-system-99041.firebaseio.com",
+    "project_id": "beauty-system-99041",
+    "storage_bucket": "beauty-system-99041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79137736238:android:8ffd78b57a51d722",
+        "android_client_info": {
+          "package_name": "br.com.beautysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79137736238-77mabk55p8a7q4ifba2dhr52c3jvb88t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDGUW9deaYAApO8WbGnm3WQaFIHd-4ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
